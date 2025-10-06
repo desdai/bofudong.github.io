@@ -1,4 +1,4 @@
-# title: Bofu Dong
+title: Home
 email: bofudong@iu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   PhD student in Data Science at IU Indianapolis.
@@ -6,14 +6,15 @@ twitter_username:
 github_username: desdai
 minimal_mistakes_skin: default
 search: true
+locale: en
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+# permalink: /:categories/:title/
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
 timezone: "America/Indiana/Indianapolis"
 
 include:
@@ -21,10 +22,10 @@ include:
 
 # Plugins (previously gems:)
 plugins:
-  - jekyll-paginate
+  # - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+  # - jekyll-feed
   - jemoji
   - jekyll-include-cache
 
