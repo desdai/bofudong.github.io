@@ -1,3 +1,4 @@
-# _data/ui-text.yml
 en:
+  recent_posts: "Recent Activities"
+en-US:
   recent_posts: "Recent Activities"
