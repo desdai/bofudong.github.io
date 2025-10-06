@@ -3,6 +3,10 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am pursuing a **PhD in Data Science** at Indiana University Indianapolis. I previously earned an **MS in Computer Science** from Tufts University and a **BSc in Mathematics & Statistical Science** from University College London.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I am broadly interested in **information extraction**, **causal knowledge discovery**, and **LLM persona**. My current work develops datasets, algorithms, and evaluation methods for extracting structured knowledge from scientific text, and for understanding how large language models represent causal relations and persona like behavior.
+
+**Vision.** I work toward LLMs with **grounded, multimodal understanding**: combining text with visual, auditory, and other sensory inputs to support **reliable, context-aware reasoning**. The goal is to **improve human–AI collaboration**, enabling systems that communicate clearly and assist rigorous scientific and everyday decision-making.
+
+**Prospective collaborators.** I welcome collaborations in information extraction, causal representation learning and human–AI interaction. If our interests align, or you’d like to discuss related ideas, please reach out at **bofudong@iu.edu**.
