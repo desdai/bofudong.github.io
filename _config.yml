@@ -51,17 +51,17 @@ footer:
       url: "https://github.com/desdai"
 
 defaults:
-  # # _posts
-  # - scope:
-  #     path: ""
-  #     type: posts
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     read_time: true
-  #     comments: true
-  #     share: true
-  #     related: true
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _pages
   - scope:
       path: "_pages"
